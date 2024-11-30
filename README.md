@@ -8,7 +8,6 @@
 ### What I Do 💻
 * Programming & Problem-Solving: I love diving into complex problems and emerging victorious (most of the time).
 * Presentation Wizardry: Because a great idea deserves a great story.
-* Reality Distortion Fields: It’s a fancy way of saying I’m good at making the impossible seem possible.
 
 ### Current Projects 🌟(working)
 * Robotics Simulations with CoppeliaSim: Exploring the world of robotics—without breaking real hardware!
@@ -33,7 +32,7 @@ Email: haligondapravin@gmail.com
 **PravinHaligonda/PravinHaligonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+* Reality Distortion Fields: It’s a fancy way of saying I’m good at making the impossible seem possible.
 - 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
