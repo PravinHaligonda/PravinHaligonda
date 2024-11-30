@@ -11,7 +11,6 @@
 * Reality Distortion Fields: It’s a fancy way of saying I’m good at making the impossible seem possible.
 
 ### Current Projects 🌟(working)
-* Ethical AI Governance Platform: Creating AI systems that play nice (and fair) with humans.
 * Robotics Simulations with CoppeliaSim: Exploring the world of robotics—without breaking real hardware!
 
 ### Skills & Tools 🛠️
@@ -26,6 +25,7 @@ Tools: VSCode, Jupyter, GitHub, and a reliable cup of coffee.
 
 ### Let’s Connect 🌍
 LinkedIn: [[LinkedIn Profile]](https://www.linkedin.com/in/pravin-haligonda-3b0757266/)
+
 Email: haligondapravin@gmail.com
 
 >> P.S. If something catches your eye, give it a star! It's like sending a little wave across the internet. 🌟
