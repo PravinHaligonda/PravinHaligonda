@@ -15,8 +15,8 @@
 
 ### Skills & Tools 🛠️
 * Languages: Python, JavaScript(little bit), C, Rust(just landed), and more.
-Frameworks: Pytorch, Numpy, Plotly and some scientific tools, Flask, Express and React.
-Tools: VSCode, Jupyter, GitHub, and a reliable cup of coffee.
+* Frameworks: Pytorch, Numpy, Plotly and some scientific tools, Flask, Express and React.
+* Tools: VSCode, Jupyter, GitHub, and a reliable cup of coffee.
 
 ### My Philosophy 🤔
 * Code should be clean, not just functional.
