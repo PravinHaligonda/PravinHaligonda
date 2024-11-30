@@ -1,7 +1,7 @@
 ## Hi there! 👋 Welcome to My GitHub Universe 🚀
 ### About Me 🧙‍♂️
 
->> "Debugging is like being the detective in a crime movie where you are also the murderer." – Me, at 3 AM.
+> "Debugging is like being the detective in a crime movie where you are also the murderer." – Me, at 3 AM.
 
 ### I'm a code alchemist(always working on it) who loves to turn ideas into innovative solutions. Whether it's solving programming problems, crafting compelling presentations. I'm always up for a challenge.
 
@@ -24,11 +24,11 @@ Tools: VSCode, Jupyter, GitHub, and a reliable cup of coffee.
 * If at first you don’t succeed, rm -rf node_modules and try again.
 
 ### Let’s Connect 🌍
-LinkedIn: [[LinkedIn Profile]](https://www.linkedin.com/in/pravin-haligonda-3b0757266/)
+LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/pravin-haligonda-3b0757266/)
 
 Email: haligondapravin@gmail.com
 
->> P.S. If something catches your eye, give it a star! It's like sending a little wave across the internet. 🌟
+> P.S. If something catches your eye, give it a star! It's like sending a little wave across the internet. 🌟
 <!--
 **PravinHaligonda/PravinHaligonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
