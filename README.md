@@ -3,7 +3,7 @@
 
 > "Debugging is like being the detective in a crime movie where you are also the murderer." – Me, at 3 AM.
 
-### I'm a code alchemist(always working on it) who loves to turn ideas into innovative solutions. Whether it's solving programming problems, crafting compelling presentations. I'm always up for a challenge.
+### I’m a curious coder who loves turning ideas into reality—solving problems, creating cool projects, and adding a little magic along the way.
 
 ### What I Do 💻
 * Programming & Problem-Solving: I love diving into complex problems and emerging victorious (most of the time).
