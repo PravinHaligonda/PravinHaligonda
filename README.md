@@ -17,17 +17,19 @@
 * Frameworks: Pytorch, Numpy, Plotly and some scientific tools, Flask, Express and React.
 * Tools: VSCode, Jupyter, GitHub, and a reliable cup of coffee.
 
-### My Philosophy 🤔
-* Code should be clean, not just functional.
-* A good bug report is worth its weight in gold.
-* If at first you don’t succeed, rm -rf node_modules and try again.
-
 ### Let’s Connect 🌍
 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/pravin-haligonda-3b0757266/)
 
 Email: haligondapravin@gmail.com
 
 > P.S. If something catches your eye, give it a star! It's like sending a little wave across the internet. 🌟
+<!--
+### My Philosophy 🤔
+* Code should be clean, not just functional.
+* A good bug report is worth its weight in gold.
+* If at first you don’t succeed, rm -rf node_modules and try again.
+--!>
+
 <!--
 **PravinHaligonda/PravinHaligonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
