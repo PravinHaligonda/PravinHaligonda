@@ -1,8 +1,8 @@
 ## Hi there! 👋 Welcome to My GitHub Universe 🚀
 ### About Me 🧙‍♂️
-
+<!--
 > "Debugging is like being the detective in a crime movie where you are also the murderer." – Me, at 3 AM.
-
+-->
 ### I’m a curious coder who loves turning ideas into reality—solving problems, creating cool projects, and adding a little magic along the way.
 
 ### What I Do 💻
