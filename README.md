@@ -8,10 +8,10 @@
 ### What I Do 💻
 * Programming & Problem-Solving: I love diving into complex problems and emerging victorious (most of the time).
 * Presentation Wizardry: Because a great idea deserves a great story.
-
+<!--
 ### Current Projects 🌟(working)
 * Robotics Simulations with CoppeliaSim: Exploring the world of robotics—without breaking real hardware!
-
+-->
 ### Skills & Tools 🛠️
 * Languages: Python, JavaScript(little bit), C, Rust(just landed), and more.
 * Frameworks: Pytorch, Numpy, Plotly and some scientific tools, Flask, Express and React.
