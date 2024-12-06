@@ -4,7 +4,7 @@ from rich.console import Console
 from rich.panel import Panel
 from rich.tree import Tree
 
-console = Console(record=True, width=110)
+console = Console(record=True, width=100)
 
 tree = Tree(":call_me_hand: [link=https://www.linkedin.com/in/pravinhaligonda/]Pravin Haligonda", guide_style="bold cyan")
 python_tree = tree.add(":computer: Rust Language | DL Engineer", guide_style="green")
