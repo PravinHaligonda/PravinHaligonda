@@ -1,46 +1,23 @@
-## Hi there! 👋 Welcome to My GitHub Universe 🚀
-### About Me 🧙‍♂️
-<!--
-> "Debugging is like being the detective in a crime movie where you are also the murderer." – Me, at 3 AM.
--->
-### I’m a curious coder who loves turning ideas into reality—solving problems, creating cool projects, and adding a little magic along the way.
-
-### What I Do 💻
-* Programming & Problem-Solving: I love diving into complex problems and emerging victorious (most of the time).
-* Presentation Wizardry: Because a great idea deserves a great story.
-<!--
-### Current Projects 🌟(working)
-* Robotics Simulations with CoppeliaSim: Exploring the world of robotics—without breaking real hardware!
--->
-### Skills & Tools 🛠️
-* Languages: Python, JavaScript(little bit), C, Rust(just landed), and more.
-* Frameworks: Pytorch, Numpy, Plotly and some scientific tools, Flask, Express and React.
-* Tools: VSCode, Jupyter, GitHub, and a reliable cup of coffee.
-
-### Let’s Connect 🌍
-LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/pravin-haligonda-3b0757266/)
-
-Email: haligondapravin@gmail.com
-
-> P.S. If something catches your eye, give it a star! It's like sending a little wave across the internet. 🌟
-<!--
-### My Philosophy 🤔
-* Code should be clean, not just functional.
-* A good bug report is worth its weight in gold.
-* If at first you don’t succeed, rm -rf node_modules and try again.
---!>
-
-<!--
-**PravinHaligonda/PravinHaligonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-* Reality Distortion Fields: It’s a fancy way of saying I’m good at making the impossible seem possible.
-- 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<pre style="font-family:Menlo, 'DejaVu Sans Mono', consoles, 'Courier New', monospace"><span style="color: #000080; text-decoration-color: #000080">╔══════════════════════ </span><span style="color: #000080; text-decoration-color: #000080; font-weight: bold">Hey hey! 👋</span><span style="color: #000080; text-decoration-color: #000080"> ═══════════════════════╗</span>
+<span style="color: #000080; text-decoration-color: #000080">║</span> I’m a curious coder who loves turning ideas into reality <span style="color: #000080; text-decoration-color: #000080">║</span>
+<span style="color: #000080; text-decoration-color: #000080">║</span> — solving problems,                                      <span style="color: #000080; text-decoration-color: #000080">║</span>
+<span style="color: #000080; text-decoration-color: #000080">║</span> focusing on open source, video &amp; DL.                     <span style="color: #000080; text-decoration-color: #000080">║</span>
+<span style="color: #000080; text-decoration-color: #000080">║</span> I love Rust Language. Video processing.                  <span style="color: #000080; text-decoration-color: #000080">║</span>
+<span style="color: #000080; text-decoration-color: #000080">║</span>                                                          <span style="color: #000080; text-decoration-color: #000080">║</span>
+<span style="color: #000080; text-decoration-color: #000080">║</span> I live in India!                                         <span style="color: #000080; text-decoration-color: #000080">║</span>
+<span style="color: #000080; text-decoration-color: #000080">║</span>                                                          <span style="color: #000080; text-decoration-color: #000080">║</span>
+<span style="color: #000080; text-decoration-color: #000080">║</span> Follow me on Twitter! <a href="https://x.com/pravinhaligonda">@pravinhaligonda</a>                   <span style="color: #000080; text-decoration-color: #000080">║</span>
+<span style="color: #000080; text-decoration-color: #000080">║</span>                                                          <span style="color: #000080; text-decoration-color: #000080">║</span>
+<span style="color: #000080; text-decoration-color: #000080">╚══════════════════════════════════════════════════════════╝</span>
+🤙 <a href="https://www.linkedin.com/in/pravinhaligonda/">Pravin Haligonda</a>                                         
+<span style="color: #008080; text-decoration-color: #008080">┣━━ </span>💻 Rust Language | DL Engineer                          
+<span style="color: #008080; text-decoration-color: #008080">┃   </span><span style="color: #008000; text-decoration-color: #008000">┣━━ </span>Open Source Contributor                             
+<span style="color: #008080; text-decoration-color: #008080">┃   </span><span style="color: #008000; text-decoration-color: #008000">┣━━ </span>Problem Solver                                      
+<span style="color: #008080; text-decoration-color: #008080">┃   </span><span style="color: #008000; text-decoration-color: #008000">┗━━ </span>Innovative Thinker                                  
+<span style="color: #008080; text-decoration-color: #008080">┣━━ </span>🗣 Interest                                              
+<span style="color: #008080; text-decoration-color: #008080">┃   ┣━━ </span>AI-Powered Projects                                 
+<span style="color: #008080; text-decoration-color: #008080">┃   ┣━━ </span>Video Processing                                    
+<span style="color: #008080; text-decoration-color: #008080">┃   ┗━━ </span>Deep Learning                                       
+<span style="color: #008080; text-decoration-color: #008080">┣━━ </span>💡 Visionary with a passion for impactful projects      
+<span style="color: #008080; text-decoration-color: #008080">┗━━ </span>Meditations                                             
+</pre>
