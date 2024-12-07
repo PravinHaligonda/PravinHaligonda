@@ -7,23 +7,19 @@ from rich.tree import Tree
 console = Console(record=True, width=100)
 
 tree = Tree(":call_me_hand: [link=https://www.linkedin.com/in/pravinhaligonda/]Pravin Haligonda", guide_style="bold cyan")
-python_tree = tree.add(":computer: Rust Language | DL Engineer", guide_style="green")
-python_tree.add("Open Source Contributor")
-python_tree.add("Problem Solver")
-python_tree.add("Innovative Thinker")
+python_tree = tree.add(":computer: Computer & Computational Linguist", guide_style="green")
+python_tree.add("DL Engineer")
+python_tree.add("Rust Language")
+python_tree.add("MakeMore")
 interest_tree = tree.add(":speaking_head: Interest")
-interest_tree.add("AI-Powered Projects")
+interest_tree.add("Object Detection")
 interest_tree.add("Video Processing")
-interest_tree.add("Deep Learning")
-tree.add(":bulb: Visionary with a passion for impactful projects")
-tree.add("Meditations")
+tree.add(":open_book: Reading")
 
 about = """\
-I’m a curious coder who loves turning ideas into reality — solving problems,
-focusing on open source, video & DL.
-I love Rust Language. Video processing.
-
-I live in India!
+I’m a curious computer person who loves turning ideas into reality — solving problems,
+focusing on open source, Video processing, DL.
+I love Rust Language. 
 
 Follow me on Twitter! [link=https://x.com/pravinhaligonda]@pravinhaligonda
 """
